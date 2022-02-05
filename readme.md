@@ -1,1 +1,0 @@
-This is a landing page project where I apply what I've learnt about CSS and Flexbox
