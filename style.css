@@ -1,13 +1,17 @@
 body{
     font-family: 'Roboto';
+    margin: 0;
 }
 header {
     background-color: #1F2937;
     color: #F9FAF8;
+    padding-bottom: 110px;
 }
 .very_top{
     display: flex;
     justify-content: space-between;
+    padding-left: 8cm;
+    padding-right: 8cm;
 }
 
 .very_top p {
@@ -29,6 +33,9 @@ header {
 .hero{
     display: flex;
     justify-content: space-between;
+    padding-left: 8cm;
+    padding-right: 8cm;
+    padding-top: 40px;
 }
 
 .hero_text {
@@ -39,11 +46,13 @@ header {
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
+    margin-bottom: 0;
 }
 
 .hero_text p {
     font-size: 18px;
     color: #E5E7EB;
+    margin: 0;
 }
 
 .hero button{
@@ -51,8 +60,13 @@ header {
     color: #F9FAF8;
     border-radius: 5px;
     border: none;
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
 }
 
 .hero img{
     padding-right: 10px;
+    width: 512x;
+    height: 256px;
 }
