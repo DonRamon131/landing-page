@@ -70,3 +70,10 @@ header {
     width: 512x;
     height: 256px;
 }
+
+.second p {
+    text-align: center;
+    color: #1F2937;
+    font-weight: 800;
+    font-size: 36px;
+}
