@@ -71,9 +71,61 @@ header {
     height: 256px;
 }
 
-.second p {
+.second{
+    padding-bottom: 110px;
+}
+
+.second h3 {
     text-align: center;
     color: #1F2937;
     font-weight: 800;
     font-size: 36px;
 }
+
+#boxes {
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+}
+
+#boxes p {
+    font-size: 15px; 
+}
+
+.illustrations {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #3882F6;
+    background-color: F9FAF8;
+    border-radius: 6px;
+    border-width: medium;
+}
+
+#textos {
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+}
+
+.text {
+    font-size: 1px;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+}
+
+.quote p {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.quote h3 {
+    align-self: flex-end;
+}
+
+
