@@ -128,4 +128,35 @@ header {
     align-self: flex-end;
 }
 
+.fourth {
+    height: 250px;
+    display: flex;
+    justify-content: center;
+}
 
+.rectangle {
+    width: 900px;
+    height: 100px;
+    background-color: #3882F6;
+    margin-top: 60px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.textin {
+    color: #E5E7EB;
+    margin-left: 70px;
+}
+
+.rectangle button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius: 5px;
+    border: white 1px solid;
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    margin-right: 70px;
+    margin-top: 35px;
+}
